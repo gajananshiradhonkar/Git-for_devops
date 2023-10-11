@@ -1,0 +1,4 @@
+#git install on ubantu 
+  yum install git
+  git --version
+  cd mnt/
