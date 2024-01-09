@@ -60,7 +60,7 @@ It is basically where you perform all the changes
 that need to be made i.e. perform commits to branch, checkout branch, make changes etc.
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-# ========================Install Git: Installation in Linux==============================
+# Install Git: Installation in Linux..
 
 
 # You can install Git on Linux using the command apt-get :
