@@ -38,13 +38,12 @@ However, project code is typically stored in a repository on a remote server.
 
 8.Distributed development.
 
+**The Git Workflow...**
 
-
-# The Git Workflow.........
 You start your git project by creating a git repository to track your files or copying a remote repository onto your local drive.
 Once you have a local repository on your drive, you check out the project to a new or existing project branch. 
 This creates a copy of the project files and directories in your working directory, which you can then update with your changes.
-You copy the updated files to the staging area when you've completed your changes. 
+You copy the updated files to the staging area when you've completed your changes.
 -----------------------------------------------------------------------------------------------------------------------------------------
 # 1] Working directory - 
 This is the area where you modify your existing files.
@@ -61,7 +60,9 @@ It is basically where you perform all the changes
 that need to be made i.e. perform commits to branch, checkout branch, make changes etc.
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-# =================================================Install Git: Installation in Linux====================================================
+# ========================Install Git: Installation in Linux==============================
+
+
 # You can install Git on Linux using the command apt-get :
 $ sudo apt-get update
 $ sudo apt-get install git
