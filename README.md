@@ -8,23 +8,34 @@ The Git Repository is a database that contains all the project code and the hist
 The Git repository can be stored on your local machine if you are working on a solo project. 
 However, project code is typically stored in a repository on a remote server.
 
-###################################################################################################################################################
+##################################################################################################################################
 # Uses of Git............
 1] Git is used to tracking changes in the source code.
+
 2] Distributed version control tool used for source code management.
+
 3] Allows multiple developers to work together.
+
 4] Supports non-linear development because of its thousands of parallel branches.
 
-###################################################################################################################################################
+#####################################################################################################################################
 
 # Features of Git............
+
 1.Free and open-source
+
 2.Tracks history
+
 3.Supports non-linear development
+
 4.Creates backup
+
 5.Scalable
+
 6.Supports collaboration
+
 7.Branching is easier
+
 8.Distributed development.
 
 ###################################################################################################################################################
